@@ -1,21 +1,43 @@
 {
-"class": [
-{
-"type_id": "1",
-"type_name": "测试分类"
-}
-],
-"list": [
-{
-"vod_id": "001",
-"vod_name": "示例视频 Supjav",
-"vod_pic": "https://i.imgur.com/1iHR2QD.jpeg",
-"type_name": "测试分类",
-"vod_year": "2024",
-"vod_area": "Japan",
-"vod_remarks": "1080P",
-"vod_play_from": "测试",
-"vod_play_url": "在线播放$https://live-play.acgvideo.com/live-bvc/732164/live_45156937_14787856_5500.m3u8"
-}
-]
+  "class": [
+    {
+      "type_id": "1",
+      "type_name": "SupJav"
+    }
+  ],
+  "list": [
+    {
+      "vod_id": "sample-001",
+      "vod_name": "SupJav Sample Video 1",
+      "vod_pic": "https://www.supjav.com/wp-content/uploads/2024/02/sample.jpg",
+      "type_name": "SupJav",
+      "vod_year": "2024",
+      "vod_area": "Japan",
+      "vod_remarks": "1080P",
+      "vod_play_from": "SupJav",
+      "vod_play_url": "在线播放$https://cdn.supjav.link/sample12345.m3u8"
+    },
+    {
+      "vod_id": "sample-002",
+      "vod_name": "SupJav Sample Video 2",
+      "vod_pic": "https://www.supjav.com/wp-content/uploads/2024/03/sample2.jpg",
+      "type_name": "SupJav",
+      "vod_year": "2024",
+      "vod_area": "Japan",
+      "vod_remarks": "720P",
+      "vod_play_from": "SupJav",
+      "vod_play_url": "在线播放$https://cdn.supjav.link/sample23456.m3u8"
+    },
+    {
+      "vod_id": "sample-003",
+      "vod_name": "SupJav Sample Video 3",
+      "vod_pic": "https://www.supjav.com/wp-content/uploads/2024/04/sample3.jpg",
+      "type_name": "SupJav",
+      "vod_year": "2024",
+      "vod_area": "Japan",
+      "vod_remarks": "高清",
+      "vod_play_from": "SupJav",
+      "vod_play_url": "在线播放$https://cdn.supjav.link/sample34567.m3u8"
+    }
+  ]
 }
