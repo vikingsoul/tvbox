@@ -1,21 +1,21 @@
 {
-  "class": [
-    {
-      "type_id": "1",
-      "type_name": "JAV合集"
-    }
-  ],
-  "list": [
-    {
-      "vod_id": "001",
-      "vod_name": "Supjav Sample Video",
-      "vod_pic": "https://www.supjav.com/wp-content/uploads/2024/02/sample.jpg",
-      "type_name": "JAV合集",
-      "vod_year": "2024",
-      "vod_area": "Japan",
-      "vod_remarks": "1080P",
-      "vod_play_from": "Supjav",
-      "vod_play_url": "在线播放$https://cdn.supjav.link/sample12345.m3u8"
-    }
-  ]
+"class": [
+{
+"type_id": "1",
+"type_name": "测试分类"
+}
+],
+"list": [
+{
+"vod_id": "001",
+"vod_name": "示例视频 Supjav",
+"vod_pic": "https://i.imgur.com/1iHR2QD.jpeg",
+"type_name": "测试分类",
+"vod_year": "2024",
+"vod_area": "Japan",
+"vod_remarks": "1080P",
+"vod_play_from": "测试",
+"vod_play_url": "在线播放$https://live-play.acgvideo.com/live-bvc/732164/live_45156937_14787856_5500.m3u8"
+}
+]
 }
