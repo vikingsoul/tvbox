@@ -1,0 +1,21 @@
+{
+  "class": [
+    {
+      "type_id": "1",
+      "type_name": "JAV合集"
+    }
+  ],
+  "list": [
+    {
+      "vod_id": "001",
+      "vod_name": "Supjav Sample Video",
+      "vod_pic": "https://www.supjav.com/wp-content/uploads/2024/02/sample.jpg",
+      "type_name": "JAV合集",
+      "vod_year": "2024",
+      "vod_area": "Japan",
+      "vod_remarks": "1080P",
+      "vod_play_from": "Supjav",
+      "vod_play_url": "在线播放$https://cdn.supjav.link/sample12345.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "sites": [
+    {
+      "key": "supjav_local",
+      "name": "我的SupJav",
+      "type": 3,
+      "api": "http://192.168.8.8:8080/supjavapi.json",
+      "searchable": false,
+      "quickSearch": false,
+      "filterable": false
+    }
+  ],
+  "lives": [],
+  "parses": [],
+  "flags": [],
+  "spider": "",
+  "wallpaper": "https://picsum.photos/1280/720?random=1"
+}
